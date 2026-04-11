@@ -9265,3 +9265,4 @@ class MainWindow(QMainWindow):
             except OSError:
                 pass
         shutil.copy2(source_path, destination)
+
